@@ -1,0 +1,20 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "main": "request.spec.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "expect.js": "^0.3.1",
+    "express": "^4.18.1",
+    "puppeteer": "^18.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^4.4.0"
+  }
+}
